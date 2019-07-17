@@ -1,3 +1,4 @@
+#Show reviews
 class Reviews < ActiveRecord::Base
   include Slugifiable 
   extend Slugifiable 
